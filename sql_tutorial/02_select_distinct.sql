@@ -1,0 +1,7 @@
+
+SELECT DISTINCT colum1 FROM table1;
+
+SELECT DISTINCT colum1 , colum2 FROM table1;
+
+SELECT COUNT(DISTICT colum1) FROM table1;
+
